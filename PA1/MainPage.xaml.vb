@@ -9,6 +9,11 @@ Partial Public Class MainPage
     Public Sub A()
         Dim mego As String
         mego = "6668"
+        Dim metoo As Integer
+
+        metoo = 6
+        metoo = 86
+
 
     End Sub
     ' Constructor
