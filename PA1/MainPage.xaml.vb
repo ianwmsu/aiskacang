@@ -7,6 +7,8 @@ Imports Microsoft.Phone.Shell
 Partial Public Class MainPage
     Inherits PhoneApplicationPage
     Public Sub A()
+        Dim mego As String
+        mego = "6668"
 
     End Sub
     ' Constructor
