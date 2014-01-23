@@ -48,6 +48,7 @@ Partial Public Class App
     ' Code to execute when the application is launching (eg, from Start)
     ' This code will not execute when the application is reactivated
     Private Sub Application_Launching(ByVal sender As Object, ByVal e As LaunchingEventArgs)
+
     End Sub
 
     ' Code to execute when the application is activated (brought to foreground)

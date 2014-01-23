@@ -6,7 +6,9 @@ Imports Microsoft.Phone.Shell
 
 Partial Public Class MainPage
     Inherits PhoneApplicationPage
+    Public Sub A()
 
+    End Sub
     ' Constructor
     Public Sub New()
         InitializeComponent()
