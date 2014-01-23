@@ -176,8 +176,6 @@
     </Content>
     <Content Include="Desert.jpg" />
     <Content Include="superman-logo-2013-png-i14.png" />
-    <Content Include="superman-small.png" />
-    <Content Include="superman.jpg" />
     <Content Include="Superman.png" />
   </ItemGroup>
   <ItemGroup>
